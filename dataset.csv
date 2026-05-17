@@ -1,4 +1,4 @@
-student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id,student_id
+student_id,age,gender,school_type,parent_edu,study_hours,attendace,internet,travel_time,extra_act,study_source,mathe,sci,nglish,ovall,grade
 1,14,male,public,post graduate,3.1,84.3,yes,<15 min,yes,notes,42.7,55.4,57,53.1,e
 2,18,female,public,graduate,3.7,87.8,yes,>60 min,no,textbook,57.6,68.8,64.8,61.3,d
 3,17,female,private,post graduate,7.9,65.5,no,<15 min,no,notes,84.8,95,79.2,89.6,b
