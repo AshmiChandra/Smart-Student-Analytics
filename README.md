@@ -50,13 +50,6 @@ The dataset includes:
 
 ---
 
-## 👥 Team Members
-- Ashmi   
-- Sri Chandana  
-- Anand  
-- Raghavendra  
-
----
 
 ## 🚀 Future Scope
 - Deploy using Streamlit  
