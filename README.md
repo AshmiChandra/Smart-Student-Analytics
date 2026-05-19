@@ -8,17 +8,17 @@ This project analyzes and predicts student academic performance using data scien
 ## 🎯 Objectives
 - Perform Exploratory Data Analysis (EDA) on student data  
 - Identify key factors affecting academic performance  
-- Build machine learning models to predict scores  
+- Build machine learning models to predict scores
+- compare with other models 
 - Visualize insights using graphs and charts  
 
 ---
 
 ## 📊 Dataset
 The dataset includes:
-- Gender  
-- Parental level of education  
-- Lunch type  
-- Test preparation course  
+- Study hours  
+- Parental level of education    
+- study materials  
 - Scores (math, reading, writing)  
 
 ---
@@ -28,7 +28,7 @@ The dataset includes:
 - Pandas, NumPy  
 - Matplotlib, Seaborn  
 - Scikit-learn  
-- Jupyter Notebook / VS Code  
+- VS Code  
 
 ---
 
@@ -37,7 +37,7 @@ The dataset includes:
 2. Data Cleaning & Preprocessing  
 3. Exploratory Data Analysis (EDA)  
 4. Feature Engineering  
-5. Model Building (Regression/Classification)  
+5. Model Building (Regression)  
 6. Model Evaluation  
 7. Insights & Conclusion  
 
@@ -53,7 +53,7 @@ The dataset includes:
 
 ## 🚀 Future Scope
 - Deploy using Streamlit  
-- Improve model accuracy    
+- Improve model accuracy   
 
 ---
 
